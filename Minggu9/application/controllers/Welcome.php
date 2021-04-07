@@ -26,8 +26,8 @@ class Welcome extends CI_Controller
      */
     public function index()
     {
-        $data['nama'] = "Vivalvia Lisangti";
-        $data['nim'] = "E31190785";
+        $data['nama'] = "ELYSHA FITRIANA DEWI";
+        $data['nim'] = "E31190416";
         $data['golongan'] = "A";
         $data['rule'] = $this->M_coba->alert;
         $this->load->view('welcome_message', $data);
