@@ -26,7 +26,7 @@ class Welcome extends CI_Controller
      */
     public function index()
     {
-        $data['nama'] = "ELYSHA FITRIANA DEWI";
+        $data['nama'] = "Elysha Fitriana Dewi";
         $data['nim'] = "E31190416";
         $data['golongan'] = "A";
         $data['rule'] = $this->M_coba->alert;
