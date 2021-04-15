@@ -24,6 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost/TugasWebFramework/A_E31190416_ElyshaFitrianaDewi_Web/Minggu_11_CRUD1/';
+// pada baris ini untuk menghubungkan atau memanggil ke browser
 
 /*
 |--------------------------------------------------------------------------
